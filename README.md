@@ -2,7 +2,7 @@
 <h3 >Desarrolladora Front-end en Camarma de Esteruelas (un pueblecito de Madrid)</h3>
 <p > Me encanta trabajar en la parte visual de la web y sobretodo en retos en los que tener que darle al coco un buen rato.</p>
 
-- 🔭 Actualmente trabajo en el proyecto [Studio](https://github.com/deletidev/Studio--ProyectoFinalTrazos)
+- 🔭 Actualmente trabajo en el proyecto ["Studio"](https://github.com/deletidev/Studio--ProyectoFinalTrazos)
 
 - 🌱 Estoy estudiando **JS, React**
 
