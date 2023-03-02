@@ -6,7 +6,7 @@
 
 - 🌱 Estoy estudiando **JS, React**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://deletidev.com/proyectos.html](Aquí)
+- 👨‍💻 Todos mis proyectos están disponibles en [Aquí](https://deletidev.com/proyectos.html)
 
 - 📫 Puedes ponerte en contacto conmigo en **contacto@deletidev.com**
 
