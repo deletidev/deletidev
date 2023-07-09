@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente trabajo en el proyecto ["Studio"](https://github.com/deletidev/Studio--ProyectoFinalTrazos)
 
-- 🌱 Estoy estudiando **JS, React**
+- 🌱 Estoy estudiando **TS, React**
 
 - 👨‍💻 Todos mis proyectos están disponibles [aquí](https://deletidev.com/proyectos.html)
 
